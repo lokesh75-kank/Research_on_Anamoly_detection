@@ -1,0 +1,10 @@
+04/04/2023:
+
+algo types
+encoder and decoder, senin, proprocess images.
+hint: 
+high const error - a high anomaly
+compare anomaly with past images.
+
+points to be consider during working:
+time series: as each image is diff from prev images. 
